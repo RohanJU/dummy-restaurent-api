@@ -12,7 +12,94 @@
     { "id": 10, "restaurantName": "Olio - The Wood Fired Pizzeria", "locality": "Koramangala", "areaName": "Koramangala", "costForTwo": "₹300 for two", "cuisines": ["Pizzas","Pastas","Italian"], "avgRating": 3.9, "restaurantImageUrl": "https://img.freepik.com/free-vector/frying-beef-steak-pan-neon-sign_1262-19540.jpg?w=1380&t=st=1648996960~exp=1648997560~hmac=5c71ded40495ebf31dbc68dc871040ad40115d812f4bec009d7d1adf72d0bfdb" },
     { "id": 11, "restaurantName": "Olio - The Wood Fired Pizzeria", "locality": "Koramangala", "areaName": "Koramangala", "costForTwo": "₹300 for two", "cuisines": ["Pizzas","Pastas","Italian"], "avgRating": 3.9, "restaurantImageUrl": "https://img.freepik.com/free-vector/frying-beef-steak-pan-neon-sign_1262-19540.jpg?w=1380&t=st=1648996960~exp=1648997560~hmac=5c71ded40495ebf31dbc68dc871040ad40115d812f4bec009d7d1adf72d0bfdb" }
   ],
+
+  "menus": {
+    "1": {
+      "restaurantId": 1,
+      "items": [
+        { "id": 101, "name": "Cheese Burst Pizza", "price": 350 },
+        { "id": 102, "name": "Garlic Bread", "price": 120 },
+        { "id": 103, "name": "Coke (500ml)", "price": 60 }
+      ]
+    },
+    "2": {
+      "restaurantId": 2,
+      "items": [
+        { "id": 201, "name": "Veg Hakka Noodles", "price": 150 },
+        { "id": 202, "name": "Chilli Paneer", "price": 200 },
+        { "id": 203, "name": "Spring Rolls", "price": 120 }
+      ]
+    },
+    "3": {
+      "restaurantId": 3,
+      "items": [
+        { "id": 301, "name": "Chocolate Brownie", "price": 90 },
+        { "id": 302, "name": "Cheese Cake", "price": 150 },
+        { "id": 303, "name": "Cold Coffee", "price": 120 }
+      ]
+    },
+    "4": {
+      "restaurantId": 4,
+      "items": [
+        { "id": 401, "name": "Rajma Chawal", "price": 100 },
+        { "id": 402, "name": "Chole Bhature", "price": 120 },
+        { "id": 403, "name": "Lassi", "price": 50 }
+      ]
+    },
+    "5": {
+      "restaurantId": 5,
+      "items": [
+        { "id": 501, "name": "Margherita Pizza", "price": 250 },
+        { "id": 502, "name": "Pasta Alfredo", "price": 300 },
+        { "id": 503, "name": "Tiramisu", "price": 180 }
+      ]
+    },
+    "6": {
+      "restaurantId": 6,
+      "items": [
+        { "id": 601, "name": "Farmhouse Pizza", "price": 320 },
+        { "id": 602, "name": "Stuffed Crust Pizza", "price": 400 }
+      ]
+    },
+    "7": {
+      "restaurantId": 7,
+      "items": [
+        { "id": 701, "name": "Manchurian", "price": 160 },
+        { "id": 702, "name": "Fried Rice", "price": 130 }
+      ]
+    },
+    "8": {
+      "restaurantId": 8,
+      "items": [
+        { "id": 801, "name": "Red Velvet Cake", "price": 200 },
+        { "id": 802, "name": "Brownie Shake", "price": 150 }
+      ]
+    },
+    "9": {
+      "restaurantId": 9,
+      "items": [
+        { "id": 901, "name": "Paneer Butter Masala", "price": 180 },
+        { "id": 902, "name": "Butter Naan", "price": 40 }
+      ]
+    },
+    "10": {
+      "restaurantId": 10,
+      "items": [
+        { "id": 1001, "name": "Pepperoni Pizza", "price": 400 },
+        { "id": 1002, "name": "Pasta Arrabiata", "price": 280 }
+      ]
+    },
+    "11": {
+      "restaurantId": 11,
+      "items": [
+        { "id": 1101, "name": "BBQ Chicken Pizza", "price": 450 },
+        { "id": 1102, "name": "Garlic Breadsticks", "price": 120 }
+      ]
+    }
+  },
+
   "profile": {
     "name": "Rohan Srivastava"
   }
 }
+
